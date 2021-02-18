@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8652ca9-a2fa-466e-9462-ccdaf9bd8d00" name="Default Changelist" comment="" />
+    <list default="true" id="b8652ca9-a2fa-466e-9462-ccdaf9bd8d00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/andrii.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/daniel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/daniel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/maksym.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/gabriel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/oleg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/maksym.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/roman.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/oleg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/taras.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/roman.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/yuriy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/serega.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/andrii.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/taras.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/gabriel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/volodya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/serega.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/1800/yuriy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/volodya.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/anya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/anya.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/ganna.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/ira.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/ilona.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/luda.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/ira.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/natalya.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/karina.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/1800/oksana.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/kristina.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/ganna.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/luda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/ilona.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/monika.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/karina.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/natalya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/kristina.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir/2000/oksana.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dir/2000/monika.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +37,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1of8OowiMsjToKZ1gvaLwIjkoDZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +59,12 @@
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.5" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.28" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -37,7 +75,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/dir" />
+      <recent name="$PROJECT_DIR$/dir/1800" />
+      <recent name="$PROJECT_DIR$/dir/2000" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613666254460</updated>
       <workItem from="1613666255546" duration="1036000" />
+      <workItem from="1613671263055" duration="2650000" />
     </task>
     <servers />
   </component>
