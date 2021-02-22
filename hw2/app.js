@@ -38,8 +38,8 @@ app.set('views', path.join(__dirname, 'views'));
 app.get('/login', (req, res) => {
     res.render('login');
 });
-app.get('/registration', (req, res) => {
-    res.render('registration');
+app.get('/register', (req, res) => {
+    res.render('register');
 });
 app.get('/error', (req, res) => {
     res.render('error');
@@ -92,11 +92,39 @@ app.post('/login', (req, res) => {
             let userIndex = usersData.findIndex(user => user.email === req.body.email);
             res.redirect(`user/${userIndex}`);
         }
-
+res.redirect('/register');
         //console.log(usersData);
     })
 })
-app.post()
+app.post('/register', (req, res) => {
+    const createdUser = req.body
+    const {name} = req.body
+    fs.readFile(filePath, (err, data) => {
+        if (err) {
+            console.log(err);
+        }
+        const users = JSON.parse(data.toString())
+        if (users.some(value => value.username === name)) {
+            res.redirect('/error')
+        }
+        if (users.some(value => value.username !== name)) {
+            const arr = [];
+
+            users.map((user) => {arr.push(user)})
+            arr.push(createdUser)
+
+            const createdUsers = JSON.stringify(arr)
+            
+            fs.writeFile(filePath, createdUsers, err => {
+                if (err) {
+                    console.log(err);
+                }
+            })
+            res.redirect('/users')
+        }
+    })
+})
+
 app.listen(5000, () => {
     console.log('App listen 5000');
 })

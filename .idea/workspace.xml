@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed3c6a2-295f-454c-87e0-8f889fb7583a" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/hw2/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/existingUsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/users/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/views/error.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/views/login.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/views/register.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/views/user.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2/views/users.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="7ed3c6a2-295f-454c-87e0-8f889fb7583a" name="Default Changelist" comment="commit &#10;not full, doroblu atvichaju.&#10;sorry">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1800/anya.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/1800/anya.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1800/ganna.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/1800/ganna.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1800/luda.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/1800/luda.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1800/monika.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/1800/monika.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1800/natalya.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/1800/natalya.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1800/oksana.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/1800/oksana.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/andrii.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/andrii.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/daniel.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/daniel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/gabriel.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/gabriel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/maksym.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/maksym.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/oleg.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/oleg.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/roman.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/roman.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/serega.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/serega.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/taras.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/taras.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/volodya.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/volodya.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2000/yuriy.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/2000/yuriy.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/users/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/users/users.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +76,9 @@
       <workItem from="1613711595882" duration="5867000" />
       <workItem from="1613718949960" duration="1666000" />
       <workItem from="1613893543755" duration="1764000" />
-      <workItem from="1613895356673" duration="33358000" />
+      <workItem from="1613895356673" duration="33992000" />
+      <workItem from="1614017006751" duration="53000" />
+      <workItem from="1614017153310" duration="795000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1613720297837</created>
@@ -110,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613720297837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit &#10;not full, doroblu atvichaju.&#10;sorry">
+      <created>1614015955987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614015955987</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="commit &#10;not full, doroblu atvichaju.&#10;sorry" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit &#10;not full, doroblu atvichaju.&#10;sorry" />
   </component>
 </project>
